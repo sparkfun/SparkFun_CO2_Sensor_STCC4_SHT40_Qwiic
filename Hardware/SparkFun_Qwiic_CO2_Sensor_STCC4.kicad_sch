@@ -3607,7 +3607,7 @@
 	)
 	(text "ADDR -> GND: 0x64\nADDR -> VDD: 0x65\n"
 		(exclude_from_sim no)
-		(at 130.556 68.834 0)
+		(at 198.628 120.904 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3628,7 +3628,7 @@
 	)
 	(text "Default 7-bit I²C Address: 0x64\n"
 		(exclude_from_sim no)
-		(at 132.08 64.262 0)
+		(at 131.826 64.262 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3639,7 +3639,7 @@
 	)
 	(text "I²C Address: 0x44\n"
 		(exclude_from_sim no)
-		(at 163.068 64.008 0)
+		(at 163.068 63.754 0)
 		(effects
 			(font
 				(size 1.27 1.27)
