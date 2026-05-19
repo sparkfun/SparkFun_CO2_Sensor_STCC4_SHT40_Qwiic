@@ -1,4 +1,4 @@
-# SparkFun Qwiic CO₂ Sensor - STCC4
+# SparkFun Environmental Combo Sensor - STCC4/SHT41 (Qwiic)
 
 [![SparkFun Qwiic CO₂ Sensor - STCC4](Documents/images/STCC4.png)](https://www.sparkfun.com/products/XXXXX)
 
