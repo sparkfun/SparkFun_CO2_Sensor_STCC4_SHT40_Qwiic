@@ -76,16 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|124431609|85518285|15867ade-bc87-4922-9129-417303565686|d6e3a13c-269f-419f-bd67-6bdd2ca889a7",
-          ""
-        ],
-        [
-          "courtyards_overlap|148551353|109636063|581204c0-620a-4656-b079-613aedc55c22|61aa0ed3-558f-4c6d-9e62-dd57c48bd5c1",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -272,7 +263,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v10"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -697,7 +688,7 @@
       {
         "filename": "SparkFun_Qwiic_CO2_Sensor_STCC4.kicad_sch",
         "name": "SparkFun_Qwiic_CO2_Sensor_STCC4",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
       }
     ],
     "used_designators": "",
@@ -706,7 +697,7 @@
   "sheets": [
     [
       "e3dd3ae4-244d-4cba-9cca-5d2abf83f29a",
-      "Root"
+      "SparkFun_Qwiic_CO2_Sensor_STCC4"
     ]
   ],
   "text_variables": {},

@@ -10,7 +10,7 @@
 	(title_block
 		(title "SparkFun Qwiic CO2 Sensor STCC4")
 		(date "2026-05-15")
-		(rev "v01")
+		(rev "v10")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: Geoff McIntyre")
 	)
@@ -8415,7 +8415,7 @@
 		(layer "Edge.Cuts")
 		(uuid "8eae2629-b3b9-46da-8360-700b2a58a511")
 	)
-	(gr_text "v01"
+	(gr_text "v10"
 		(at 125.171 92.391 270)
 		(layer "B.Cu" knockout)
 		(uuid "3c322aac-72fa-464e-a60f-a1d3fef083b6")
@@ -8576,7 +8576,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.9 in"
+		(gr_text "900 mils"
 			(at 115.4461 99.376 90)
 			(layer "Dwgs.User")
 			(uuid "44ae2d15-d915-4e49-be23-ddcb944d57c9")
@@ -8614,7 +8614,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1 in"
+		(gr_text "1000 mils"
 			(at 113.2236 98.106 90)
 			(layer "Dwgs.User")
 			(uuid "5f70a531-96c8-49fb-a68d-c7cd16a210e8")
@@ -8652,7 +8652,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1 in"
+		(gr_text "1000 mils"
 			(at 135.966 119.1786 0)
 			(layer "Dwgs.User")
 			(uuid "7116aa76-7990-4398-81ac-a259ceabea3a")
@@ -8690,7 +8690,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.9 in"
+		(gr_text "900 mils"
 			(at 134.696 116.6386 0)
 			(layer "Dwgs.User")
 			(uuid "84ac7b86-13e6-4ddd-8ca8-728b62d644df")
@@ -8727,7 +8727,7 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 		)
-		(gr_text "0.1 in"
+		(gr_text "100 mils"
 			(at 135.0135 113.981 0)
 			(layer "Dwgs.User")
 			(uuid "8b0d82b2-03f4-454f-996b-d661e12f0a2a")
@@ -8765,7 +8765,7 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5)
 		)
-		(gr_text "0.5 in"
+		(gr_text "500 mils"
 			(at 117.6686 104.456 90)
 			(layer "Dwgs.User")
 			(uuid "8daceb47-3559-48b9-bd86-26e9967b5cff")
@@ -8803,7 +8803,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.1 in"
+		(gr_text "100 mils"
 			(at 121.6785 107.9485 90)
 			(layer "Dwgs.User")
 			(uuid "911df21b-384f-4459-87b7-a09bc296d202")
@@ -8842,7 +8842,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.35 in"
+		(gr_text "350 mils"
 			(at 131.267 115.886 0)
 			(layer "Dwgs.User")
 			(uuid "d790e351-e6db-4a0b-a93b-31c818ae7b3c")
