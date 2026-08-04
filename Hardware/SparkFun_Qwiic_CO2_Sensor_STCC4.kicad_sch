@@ -3890,9 +3890,9 @@
 		)
 		(uuid "3f09c4c0-54f8-4b48-95a5-64b46da9d59c")
 	)
-	(text "ADDR -> GND: 0x64\nADDR -> VDD: 0x65\n"
+	(text "ADDR -> VDD: 0x65\nADDR -> GND: 0x64"
 		(exclude_from_sim no)
-		(at 198.628 120.904 0)
+		(at 198.374 121.158 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3910,6 +3910,17 @@
 			)
 		)
 		(uuid "4f39d24d-deb4-4561-a0f4-1667970edfa5")
+	)
+	(text "DEFAULT"
+		(exclude_from_sim no)
+		(at 183.642 122.174 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 132 132 132 1)
+			)
+		)
+		(uuid "53358106-7264-4acd-a65d-755fd5f5475f")
 	)
 	(text "Default 7-bit I²C Address: 0x64\n"
 		(exclude_from_sim no)
