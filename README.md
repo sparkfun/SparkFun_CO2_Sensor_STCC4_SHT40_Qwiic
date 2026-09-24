@@ -1,8 +1,8 @@
-# SparkFun Environmental Combo Sensor - STCC4/SHT41 (Qwiic)
+# SparkFun CO2 Sensor - STCC4/SHT41 (Qwiic)
 
-[![SparkFun Qwiic CO₂ Sensor - STCC4](Documents/images/STCC4.png)](https://www.sparkfun.com/products/XXXXX)
+[![SparkFun CO2 Sensor - STCC4/SHT40 (Qwiic)](/docs/img/Qwiic_STCC4STH40-GHBanner.png)](https://www.sparkfun.com/sparkfun-co2-sensor-stcc4-sht40-qwiic.html)
 
-The SparkFun Qwiic CO₂ Sensor - STCC4 is a compact, plug-and-play air quality breakout built around the STCC4 CO₂ sensor paired with a Sensirion SHT41 temperature and humidity sensor for on-board environmental compensation. Connect via the Qwiic connector or the PTH header (GND, 3V3, SDA, SCL) and start reading calibrated CO₂ concentrations, temperature, and relative humidity over I2C in minutes — no external components required.
+The SparkFun CO2 Sensor - STCC4/SHT40 (Qwiic) is a compact, plug-and-play air quality breakout built around the STCC4 CO₂ sensor paired with a Sensirion SHT41 temperature and humidity sensor for on-board environmental compensation. Connect via the Qwiic connector or the PTH header (GND, 3V3, SDA, SCL) and start reading calibrated CO₂ concentrations, temperature, and relative humidity over I2C in minutes — no external components required.
 
 Designed for our [Qwiic ecosystem](https://www.sparkfun.com/qwiic), this 1" × 1" board plugs straight into any Qwiic-enabled microcontroller. A power LED confirms operation at a glance, and the four mounting holes make permanent installation straightforward. Whether you are monitoring indoor air quality, building a ventilation controller, or logging CO₂ trends in a greenhouse or classroom, the STCC4 delivers accurate, temperature- and humidity-compensated readings in a breadboard-friendly package.
 
@@ -15,12 +15,12 @@ Designed for our [Qwiic ecosystem](https://www.sparkfun.com/qwiic), this 1" × 1
 
 ## Documentation
 
-* **[Library](https://github.com/sparkfun/SparkFun_STCC4_Arduino_Library)** - Arduino library for the SparkFun Qwiic CO₂ Sensor - STCC4.
-* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_Qwiic_CO2_Sensor_STCC4/)** - Basic hookup guide for the SparkFun Qwiic CO₂ Sensor - STCC4.
+* **[Library](https://github.com/sparkfun/SparkFun_STCC4_Arduino_Library)** - Arduino library for the SparkFun CO2 Sensor - STCC4/SHT40 (Qwiic).
+* **[Hookup Guide](https://docs.sparkfun.com/SparkFun_CO2_Sensor_STCC4+SHT40/)** - Basic hookup guide for the SparkFun CO2 Sensor - STCC4/SHT40 (Qwiic).
 
 ## Product Versions
 
-* **[SEN-XXXXX](https://www.sparkfun.com/products/XXXXX)** - Initial release of the SparkFun Qwiic CO₂ Sensor - STCC4.
+* **[SEN-31536](https://www.sparkfun.com/sparkfun-co2-sensor-stcc4-sht40-qwiic.htmlX)** - Initial release of the SparkFun CO2 Sensor - STCC4/SHT40 (Qwiic).
 
 ## License Information
 
